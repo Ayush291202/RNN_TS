@@ -9,5 +9,8 @@ This project implements a Long Short-Term Memory (LSTM) neural network to foreca
 - **Model**: LSTM-based time series forecasting model.
 - **Tools Used**: PyTorch, Pandas, Matplotlib, NumPy, Scikit-learn.
 
+<br>
+great!
+
 ## Repository Structure
 
